@@ -1,6 +1,6 @@
 {
   "name": "robofriends",
-  "Homepage": "https://viral-sangani.github.io/robofriend" 
+  "Homepage": "https://viral-sangani.github.io/robofriend", 
   "version": "0.1.0",
   "private": true,
   "dependencies": {
